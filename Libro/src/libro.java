@@ -12,5 +12,3 @@ public class libro {
         return titulo;
     }
 }
-
-
